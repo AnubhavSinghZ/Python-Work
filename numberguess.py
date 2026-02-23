@@ -24,5 +24,4 @@ elif guess>target:
 else:
  print("Try a higher number")      
 
-
 start_game()
